@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Kubernetes, DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/imannovv?tab=repositories](https://github.com/imannovv?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/imannovv?tab=repositories)
 
 - 💬 Ask me about **Linux**
 
 - 📫 How to reach me **imannovv@gmail.com**
 
-- 📄 Know about my experiences [From My Resume](https://drive.google.com/file/d/18t1h5q-AmiFk0MuPBlmO30K_a4fCl4zD/view?pli=1)
+- 📄 Know about my experiences [from My Resume](https://drive.google.com/file/d/18t1h5q-AmiFk0MuPBlmO30K_a4fCl4zD/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
