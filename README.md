@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imannovv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/18t1h5q-AmiFk0MuPBlmO30K_a4fCl4zD/view?pli=1](https://drive.google.com/file/d/18t1h5q-AmiFk0MuPBlmO30K_a4fCl4zD/view?pli=1)
+- 📄 Know about my experiences [From My Resume](https://drive.google.com/file/d/18t1h5q-AmiFk0MuPBlmO30K_a4fCl4zD/view?pli=1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
