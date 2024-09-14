@@ -1,24 +1,24 @@
 <h1 align="center">Hi 👋, I'm Mahammad Imanov</h1>
-<h3 align="center">Linux/DevOps Administrator | RHCSA | RHCE</h3>
+<h3 align="center">Linux Administrator | RHCSA | RHCE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imannovv&label=Profile%20views&color=0e75b6&style=flat" alt="imannovv" /> </p>
 
-- 🌱 I’m currently learning **Kubernetes, DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/imannovv?tab=repositories)
 
 - 💬 Ask me about **Linux**
 
-- 📫 How to reach me **imannovv@gmail.com**
+- 📫 How to reach me **imanovvmahammad@gmail.com**
 
-- 📄 Know about my experiences [from My Resume](https://drive.google.com/file/d/18t1h5q-AmiFk0MuPBlmO30K_a4fCl4zD/view?pli=1)
+- 📄 Know about my experiences [from My Resume](https://drive.google.com/file/d/1tL0xV-sqx_g18sZuKksq0F9PlUhFuHfM/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/imannovv/" target="_blank">
+  <a href="https://www.linkedin.com/in/mahammadimanov/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-   <a href="https://www.instagram.com/imannovv/" target="_blank">
+   <a href="https://www.instagram.com/mahammadimanovv/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="47" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.hackerrank.com/profile/MahammadImanov" target="_blank">
